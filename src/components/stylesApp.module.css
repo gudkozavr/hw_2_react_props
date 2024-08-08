@@ -1,0 +1,7 @@
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+  align-items: baseline;
+  border: 2px solid black;
+}
